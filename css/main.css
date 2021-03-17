@@ -20,6 +20,12 @@ a {
   right: 0;
 }
 
+/* Delimitar tamaño del espacio de la pagina*/
+.grid-container {
+  max-width: 980px;
+  margin: auto;
+}
+
 header {
   width: 100%;
   height: 140px;
